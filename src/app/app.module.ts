@@ -24,7 +24,7 @@ import { ProductListComponent } from './product-list/product-list.component';
     HttpModule
   ],
   providers: [
-    ProductService,
+    ProductService
   ],
   bootstrap: [AppComponent]
 })
